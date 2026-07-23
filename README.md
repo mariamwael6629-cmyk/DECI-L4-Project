@@ -219,3 +219,6 @@ ecommerce-api/
 └── package.json       # Project dependencies and script declarations
 
 ```
+## Changelog
+
+- Prepared project for v1.0.0 release.
